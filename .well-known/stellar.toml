@@ -10,12 +10,12 @@ ACCOUNTS=[
 ORG_NAME="YXRP"
 ORG_URL="https://yxrp.github.io/"
 ORG_LOGO ="https://yxrp.github.io/img/crown.png"
-ORG_OFFICIAL_EMAIL="sweespay@proton.me"
-ORG_SUPPORT_EMAIL="sweespay@proton.me"
+ORG_OFFICIAL_EMAIL="YXRP@FINANCE"
+ORG_SUPPORT_EMAIL="YXRP@FINANCE"
 ORG_DESCRIPTION="YXRP FINANCE"
 
 [[PRINCIPALS]]
-email="non"
+email="YXRP@FINANCE"
 
 [[CURRENCIES]]
 code ="YXRP"
