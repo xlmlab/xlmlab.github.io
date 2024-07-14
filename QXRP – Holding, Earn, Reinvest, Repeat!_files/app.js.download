@@ -1,4 +1,0 @@
-/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-particlesJS.load('particles-js', 'wp-content/themes/coeus/assets/js/jsparticles.json', function() {
-  console.log('callback - particles.js config loaded');
-});

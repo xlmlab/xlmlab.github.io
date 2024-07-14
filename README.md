@@ -1,2 +1,2 @@
-# swisscustody.github.io
+# stellarpay.github.io
  
