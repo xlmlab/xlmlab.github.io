@@ -12,7 +12,7 @@ ORG_URL="https://yxrp.github.io/"
 ORG_LOGO ="https://yxrp.github.io/img/crown.png"
 ORG_OFFICIAL_EMAIL="sweespay@proton.me"
 ORG_SUPPORT_EMAIL="sweespay@proton.me"
-ORG_DESCRIPTION=": POWER BUY SWEESSCUTODY"
+ORG_DESCRIPTION="YXRP FINANCE"
 
 [[PRINCIPALS]]
 email="non"
@@ -25,7 +25,7 @@ is_asset_anchored=false
 display_decimals = 7
 desc="Thes is make all type of payment yXRP ⛓️"
 image="https://yxrp.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
+conditions="KIND OF USES"
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
