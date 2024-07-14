@@ -8,8 +8,8 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="YXRP"
-ORG_URL="https://sweespay.github.io/"
-ORG_LOGO ="https://sweespay.github.io/img/crown.png"
+ORG_URL="https://yxrp.github.io/"
+ORG_LOGO ="https://yxrp.github.io/img/crown.png"
 ORG_OFFICIAL_EMAIL="sweespay@proton.me"
 ORG_SUPPORT_EMAIL="sweespay@proton.me"
 ORG_DESCRIPTION=": POWER BUY SWEESSCUTODY"
@@ -18,13 +18,13 @@ ORG_DESCRIPTION=": POWER BUY SWEESSCUTODY"
 email="non"
 
 [[CURRENCIES]]
-code ="1BOSS"
-name ="1BOSS"
+code ="YXRP"
+name ="YRIPPL"
 issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://sweespay.github.io/img/crown.png"
+image="https://yxrp.github.io/img/crown.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
@@ -38,7 +38,7 @@ issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://sweespay.github.io/img/SGB.png"
+image="https://yxrp.github.io/img/SGB.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
@@ -51,7 +51,7 @@ issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://sweespay.github.io/img/BTC.png"
+image="https://yxrp.github.io/img/BTC.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
@@ -64,7 +64,7 @@ issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://sweespay.github.io/img/Kay.png"
+image="https://yxrp.github.io/img/Kay.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
@@ -77,7 +77,7 @@ issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="ChatGPT"
-image="https://sweespay.github.io/img/chat.png"
+image="https://yxrp.github.io/img/chat.png"
 status="live"
 
 [[CURRENCIES]]
