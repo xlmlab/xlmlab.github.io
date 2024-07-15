@@ -27,253 +27,384 @@ desc="Thes is make all type of payment yXRP ⛓️"
 image="https://yxrp.github.io/img/YXRP.png"
 conditions="KIND OF USES"
 status="live"
-anchor_asset_type="other"
+anchor_asset_type="FINANCIAL"
 fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="SGB"
-name ="SWEES GOLD BOND"
+code ="AXRP"
+name ="ARIPPL"
 issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is meme token of ."
-image="https://yxrp.github.io/img/SGB.png"
-conditions="There will only ever be 1 billion  tokens in existence."
+desc="FAST TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence.then lock issuer"
 status="live"
-anchor_asset_type="other"
+anchor_asset_type="CHAIN"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="BTC"
-name ="THIS IS KING"
+code ="BXRP"
+name ="BRIPPL"
 issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is meme token of ."
-image="https://yxrp.github.io/img/BTC.png"
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
-anchor_asset_type="other"
+anchor_asset_type="CURRENCY"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="Kay"
-name ="MAKER KAY"
+code ="CXRP"
+name ="CRIPPL"
 issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is meme token of ."
-image="https://yxrp.github.io/img/Kay.png"
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
-anchor_asset_type="other"
+anchor_asset_type="CURRENCY"
 fixed_number=1000000000
 
-[[CURRENCIES]]
-code="CHATGPT"
-name="ChatGPT"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="ChatGPT"
-image="https://yxrp.github.io/img/chat.png"
-status="live"
 
 [[CURRENCIES]]
-code ="USD"
-name ="UNITED STET BOND"
+code ="DXRP"
+name ="DRIPPL"
 issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is meme token of ."
-image="https://sweespay.github.io/img/USD.png"
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
-anchor_asset_type="other"
+anchor_asset_type="CURRENCY"
 fixed_number=1000000000
 
-[[CURRENCIES]]
-code="GOLD"
-name="Gold Bond"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="GolD"
-image="https://sweespay.github.io/img/SGB.png"
-status="live"
-
-
 
 [[CURRENCIES]]
-code="RCEO"
-name="Received of customers"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="Received of customers"
-image="https://sweespay.github.io/img/RECO.png"
-status="live"
-
-
-[[CURRENCIES]]
-code="BOSS"
-name="BOSS"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="BOSS"
-image="https://sweespay.github.io/img/BOSS.png"
-status="live"
-
-
-[[CURRENCIES]]
-code="BOND"
-name="BOND"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="BOND"
-image="https://sweespay.github.io/img/BOND.png"
-status="live"
-
-
-[[CURRENCIES]]
-code="T"
-name="T"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="T"
-image="https://sweespay.github.io/img/T.png"
-status="live"
-
-
-
-[[CURRENCIES]]
-code="1oo"
-name="100"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="1oo"
-image="https://sweespay.github.io/img/100.png"
-status="live"
-
-
-[[CURRENCIES]]
-code="Q"
-name="Question"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="Q"
-image="https://sweespay.github.io/img/Q.png"
-status="live"
-
-
-
-[[CURRENCIES]]
-code="Yes"
-name="Yes"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="Yes"
-image="https://sweespay.github.io/img/YES.png"
-status="live"
-
-[[CURRENCIES]]
-code ="USBS"
-name ="UNIT OF USDT"
+code ="EXRP"
+name ="ERIPPL"
 issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is meme token of ."
-image="https://sweespay.github.io/img/USD.png"
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
-anchor_asset_type="other"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="FXRP"
+name ="FRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+[[CURRENCIES]]
+code ="GXRP"
+name ="GRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
 fixed_number=1000000000
 
 
 
 
 [[CURRENCIES]]
-code="SNP500"
-name="S&P"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+code ="HXRP"
+name ="HRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="SNP500"
-image="https://sweespay.github.io/img/SNP.png"
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
-
-
-[[CURRENCIES]]
-code="DW"
-name="📛"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="DW"
-image="https://sweespay.github.io/img/DW.png"
-status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
 
 
 
 [[CURRENCIES]]
-code="DEX"
-name="DX"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+code ="IXRP"
+name ="IRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="dex"
-image="https://sweespay.github.io/img/DEX.png"
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
 
 
 
 [[CURRENCIES]]
-code="POK"
-name="Pakistani Bond"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+code ="JXRP"
+name ="JRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="POK"
-image="https://sweespay.github.io/img/POK.png"
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
 
-
-[[CURRENCIES]]
-code="MBA"
-name="MASTAR"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="MASTAR"
-image="https://sweespay.github.io/img/MBA.png"
-status="live"
 
 
 
 [[CURRENCIES]]
-code="GDDSX"
-name="GDDSX"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+code ="KXRP"
+name ="KRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="ALL"
-image="https://sweespay.github.io/img/STAR.png"
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
 
 
 [[CURRENCIES]]
-code="Wallet"
-name="wallet for pay"
-issuer="GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+code ="LXRP"
+name ="LRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
 is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="wallet"
-image="https://sweespay.github.io/img/wallet.png"
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="MXRP"
+name ="MRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+
+[[CURRENCIES]]
+code ="NXRP"
+name ="NRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="OXRP"
+name ="ORIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+[[CURRENCIES]]
+code ="PXRP"
+name ="PRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+
+[[CURRENCIES]]
+code ="QXRP"
+name ="QRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+
+[[CURRENCIES]]
+code ="RXRP"
+name ="RRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+
+
+[[CURRENCIES]]
+code ="SXRP"
+name ="SRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="TXRP"
+name ="TRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="UXRP"
+name ="URIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code ="VXRP"
+name ="VRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code ="WXRP"
+name ="WRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code ="XXRP"
+name ="XRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="ZXRP"
+name ="ZRIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code ="1XRP"
+name ="1RIPPL"
+issuer = "GC2VIJVUOZZ53MBSJFO5PTLWNDWMITTEOUACIOBDN2I3N4SLANINXRA2"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF YXRP FINANCE"
+image="https://yxrp.github.io/img/YXRP.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
