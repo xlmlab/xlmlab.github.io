@@ -3,24 +3,37 @@ VERSION="2.2.0"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-""
+"GAD673YPFRHETL3FQS5J3ZVAF7S5XU43RWN54B6EZ7HMWSWPECDZYS7X",
+"GBFJS545J6JQRPZO4RTLEIM6ELVFRAQVM4HW2YQCY64HBUPL4ZQMEYYQ",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_LOGO =""
-ORG_OFFICIAL_EMAIL=""
-ORG_SUPPORT_EMAIL=""
-ORG_DESCRIPTION=""
+ORG_NAME="XLMLAB"
+ORG_URL="https://xlmlab.github.io"
+ORG_LOGO="https://xlmlab.github.io/images/logo.jpg"
+ORG_SUPPORT_EMAIL="poolminerbox@gmail.com"
+ORG_DESCRIPTION="XLMLAB is a cutting-edge cryptocurrency assets management platform designed to empower both individual investors and institutional clients in navigating the dynamic world of digital assets. With a focus on innovation, security, and user experience, XLMLAB offers a comprehensive suite of tools and services to streamline asset management and enhance investment strategies. XLMLAB is your trusted partner in cryptocurrency asset management, combining robust technology with a user-centric approach. Whether you're looking to optimize your portfolio, stay informed about market trends, or connect with other investors, XLMLAB provides the tools and resources you need to succeed in the ever-evolving crypto landscape. Take control of your digital assets with XLMLAB and navigate the future of finance with confidence."
 
 [[CURRENCIES]]
-code=""
-name=""
-issuer=""
-desc=""
-image=""
-conditions=""
+code="XILIN"
+name="XILIN"
+issuer="GAD673YPFRHETL3FQS5J3ZVAF7S5XU43RWN54B6EZ7HMWSWPECDZYS7X"
+desc="XILIN Stellar is a cutting-edge cryptocurrency token designed to facilitate seamless transactions and interoperability within the blockchain ecosystem. Built on the Stellar network, XILIN aims to enhance financial inclusion by providing a fast, efficient, and low-cost means for users to send and receive digital assets across borders."
+image="https://xlmlab.github.io/images/xilin.jpeg"
+conditions="utilized for a variety of purposes, including remittances, online payments, and as a means of value storage, appealing to both individual users and businesses."
+status="live"
+display_decimals=7
+is_asset_anchored=true
+anchor_asset_type="CRYPTO"
+fixed_number=100000000000
+
+[[CURRENCIES]]
+code="TRYGIO"
+name="TRYGIO"
+issuer="GBFJS545J6JQRPZO4RTLEIM6ELVFRAQVM4HW2YQCY64HBUPL4ZQMEYYQ"
+desc="The TRYGIO Stellar Token is a cutting-edge digital asset designed to enhance the user experience within the TRYGIO ecosystem. Built on the Stellar blockchain, TRYGIO leverages the platform’s fast transaction speeds and low fees to facilitate seamless transfers and interactions among users."
+image="https://xlmlab.github.io/images/trygio.jpeg"
+conditions="Hold and stake TRYGIO tokens to earn rewards and contribute to network security."
 status="live"
 display_decimals=7
 is_asset_anchored=true
